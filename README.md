@@ -17,7 +17,7 @@ Sempre em busca do próximo <strong>nível</strong> 🚀!</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=Wizard_OriginSix)](https://github.com/ViniciusMendesp/Wizard_OriginSix)
 
-# 📊 Status no GI
+# 📊 Status no GIT
 
 ![ViniciusMendesp GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusMendesp&show_icons=true&theme=gruvbox  )
 
