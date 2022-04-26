@@ -15,4 +15,4 @@ Sempre em busca do próximo <strong>nível</strong> 🚀!</p>
 
  ## Pool-Magic 🏊🏼‍♂️
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=Wizard-OriginSix)](https://github.com/ViniciusMendesp/Wizard_OriginSix)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=Wizard_OriginSix)](https://github.com/ViniciusMendesp/Wizard_OriginSix)
