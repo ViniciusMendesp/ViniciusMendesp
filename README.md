@@ -13,6 +13,10 @@ Sempre em busca do próximo <strong>nível</strong> 🚀!</p>
  
  # Projetos
 
- ## Pool-Magic 🏊🏼‍♂️
+ ## Wizard_OriginSix 🧙‍♂️
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=Wizard_OriginSix)](https://github.com/ViniciusMendesp/Wizard_OriginSix)
+
+# 📊 Status no GIT
+
+![ViniciusMendesp GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusMendesp&show_icons=true&theme=gruvbox  )
