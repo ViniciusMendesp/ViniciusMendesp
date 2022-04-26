@@ -10,3 +10,9 @@ Sempre em busca do próximo <strong>nível</strong> 🚀!</p>
  <h1 align="center">
  <img src="https://attaa.sa/files/library_thumbnails/c8c83ba_1600208181.jpg">
 </h1>
+ 
+ # Projetos
+
+ ## Pool-Magic 🏊🏼‍♂️
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=Wizard-OriginSix)](https://github.com/ViniciusMendesp/Wizard_OriginSix)
