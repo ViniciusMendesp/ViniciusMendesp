@@ -7,6 +7,6 @@
  gostaria de trabalhar com diferentes projetos, conhecer novas pessoas e claro adquirir sempre mais <strong>conhecimentos</strong> nesse ramo de desenvolvimento de softwares
 Sempre em busca do próximo <strong>nível</strong> 🚀!</p>
 
- <h1>
+ <h1 align="center">
  <img src="https://attaa.sa/files/library_thumbnails/c8c83ba_1600208181.jpg">
 </h1>
