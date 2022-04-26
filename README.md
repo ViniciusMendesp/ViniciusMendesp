@@ -21,7 +21,7 @@ Sempre em busca do próximo <strong>nível</strong> 🚀!</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=Calculadora)](https://github.com/ViniciusMendesp/Calculadora)
 
- ## Anna Bella 🧙‍♀️
+ ## Anna Bella 💇‍♀️
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=Anna-Bella)](https://github.com/ViniciusMendesp/Anna-Bella)
 
