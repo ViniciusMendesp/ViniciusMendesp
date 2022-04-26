@@ -20,3 +20,7 @@ Sempre em busca do próximo <strong>nível</strong> 🚀!</p>
 # 📊 Status no GIT
 
 ![ViniciusMendesp GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusMendesp&show_icons=true&theme=gruvbox  )
+
+# 🎓 Linguagens
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMendesp&layout=compact)](https://github.com/ViniciusMendesp/github-readme-stats)
