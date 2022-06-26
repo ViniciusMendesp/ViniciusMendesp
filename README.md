@@ -24,6 +24,10 @@ Sempre em busca do próximo <strong>nível</strong> 🚀!</p>
  ## Anna Bella 💇‍♀️
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=Anna-Bella)](https://github.com/ViniciusMendesp/Anna-Bella)
+ 
+ ## Istitucional nitratus 💊
+ 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=InstitucionalNitratus)](https://github.com/ViniciusMendesp/InstitucionalNitratus)
 
 # 📊 Status no GIT
 
