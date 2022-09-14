@@ -13,17 +13,9 @@ Sempre em busca do próximo <strong>nível</strong> 🚀!</p>
  
  # Projetos
 
- ## Wizard_OriginSix 🧙‍♂️
+ ## Ignite Feed 🧙‍♂
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=Wizard_OriginSix)](https://github.com/ViniciusMendesp/Wizard_OriginSix)
-
- ## Calculadora Magica 🧙‍♀️
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=Calculadora)](https://github.com/ViniciusMendesp/Calculadora)
-
- ## Anna Bella 💇‍♀️
- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=Anna-Bella)](https://github.com/ViniciusMendesp/Anna-Bella)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=Ignite-Feed)](https://github.com/ViniciusMendesp/Ignite-Feed)
  
  ## Istitucional nitratus 💊
  
