@@ -23,7 +23,7 @@ Sempre em busca do próximo <strong>nível</strong> 🚀!</p>
 
 # 📊 Status no GIT
 
-![ViniciusMendesp GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![ViniciusMendesp GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusMendesp_icons=true&theme=dracula)
 
 # 🎓 Linguagens
 
