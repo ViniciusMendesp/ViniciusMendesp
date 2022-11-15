@@ -17,7 +17,15 @@ Sempre em busca do próximo <strong>nível</strong> 🚀!</p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=Ignite-Feed)](https://github.com/ViniciusMendesp/Ignite-Feed)
  
- ## Istitucional nitratus 💊
+ ## RocketNews 📧
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=RocketNews)](https://github.com/ViniciusMendesp/RocketNews)
+
+## Desafio Portifolio 💼
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=DesafioPortifolio)](https://github.com/ViniciusMendesp/DesafioPortifolio)
+ 
+## Istitucional nitratus 💊
  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=InstitucionalNitratus)](https://github.com/ViniciusMendesp/InstitucionalNitratus)
 
