@@ -29,24 +29,6 @@ Sempre em busca do próximo <strong>nível</strong> 🚀!</p>
 
 <br> 
 
- ## Projetos
-
- ## Ignite Feed 🧙‍♂
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=Ignite-Feed)](https://github.com/ViniciusMendesp/Ignite-Feed)
- 
- ## RocketNews 📧
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=RocketNews)](https://github.com/ViniciusMendesp/RocketNews)
-
-## Desafio Portifolio 💼
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=DesafioPortifolio)](https://github.com/ViniciusMendesp/DesafioPortifolio)
- 
-## Istitucional nitratus 💊
- 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniciusMendesp&repo=InstitucionalNitratus)](https://github.com/ViniciusMendesp/InstitucionalNitratus)
-
 ## 📊 Status no GIT
 
 ![ViniciusMendesp GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusMendesp&show_icons=true&theme=transparent)
