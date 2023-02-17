@@ -26,6 +26,7 @@ Sempre em busca do próximo <strong>nível</strong> 🚀!</p>
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
 <br> 
+
 ## 📊 Status no GIT
 
 ![ViniciusMendesp GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusMendesp&show_icons=true&theme=transparent)
