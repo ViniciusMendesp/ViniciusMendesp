@@ -3,9 +3,7 @@
 
 ## Quem sou ?
 
- <p> Olá, Me chamo <strong>Vinicius</strong>, sou apaixonado por <strong>tecnologia</strong> e estou em busca de ingressar no mercado de desenvolvimento de softwares.
- gostaria de trabalhar com diferentes projetos, conhecer novas pessoas e claro adquirir sempre mais <strong>conhecimentos</strong> nesse ramo de desenvolvimento de softwares
-Sempre em busca do próximo <strong>nível</strong> 🚀!</p>
+ <p> Olá! Meu nome é Vinicius e sou apaixonado por tecnologia. Estou buscando ingressar no mercado de desenvolvimento de software e adoraria trabalhar em diferentes projetos, conhecer novas pessoas e, é claro, continuar aprendendo cada vez mais sobre essa área. Estou sempre buscando alcançar o próximo nível e me dedicando ao máximo para alcançar meus objetivos. 🚀 </p>
 
  <h1 align="center">
  <img src="https://attaa.sa/files/library_thumbnails/c8c83ba_1600208181.jpg">
