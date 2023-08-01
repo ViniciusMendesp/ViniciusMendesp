@@ -3,7 +3,7 @@
 
 ## Quem sou ?
 
- <p> Olá! Meu nome é Vinicius e sou apaixonado por tecnologia. Estou buscando ingressar no mercado de desenvolvimento de software e adoraria trabalhar em diferentes projetos, conhecer novas pessoas e, é claro, continuar aprendendo cada vez mais sobre essa área. Estou sempre buscando alcançar o próximo nível e me dedicando ao máximo para alcançar meus objetivos. 🚀 </p>
+ <p> Oi! Eu sou Vinicius. Sou completamente apaixonado por tecnologia, com um foco especial em desenvolvimento de software. Nesse momento, estou imerso no mundo do front-end, dedicado a construir e aprimorar interfaces de usuário que são tanto atraentes quanto intuitivas. Gosto da variedade que este campo oferece - cada projeto é uma nova aventura, uma chance de conhecer pessoas interessantes e aprender coisas novas. Estou sempre de olho no próximo desafio, buscando oportunidades para expandir meus conhecimentos e habilidades. Minha meta é sempre avançar e me desenvolver, pois vejo cada desafio como uma nova oportunidade para crescer e evoluir na minha carreira. 🚀 </p>
 
  <h1 align="center">
  <img src="https://attaa.sa/files/library_thumbnails/c8c83ba_1600208181.jpg">
