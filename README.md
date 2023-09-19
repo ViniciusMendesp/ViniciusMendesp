@@ -1,3 +1,5 @@
+![animatedlaptop](https://github.com/ViniciusMendesp/ViniciusMendesp/assets/63562960/90c91f84-0cea-478e-8209-9456bafbe91d)
+
 <h1>🎉 Bem-vindo a bordo! 🥳</h1> 
 <h2>👨‍💻 Sobre mim</h2> 
 <p>
