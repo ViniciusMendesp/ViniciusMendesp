@@ -3,7 +3,7 @@
 <h1>🎉 Bem-vindo a bordo! 🥳</h1> 
 <h2>👨‍💻 Sobre mim</h2> 
 <p>
-Olá! Eu sou o Vinicius, um desenvolvedor front-end dedicado e um grande amante de café. Atualmente, estou trabalhando intensamente com Next.js, criando interfaces de usuário intuitivas e atraentes. Vamos programar e tomar um café! 🚀
+Olá! Eu sou o Vinicius, um desenvolvedor front-end dedicado. Atualmente, estou trabalhando com Next.js, criando interfaces de usuário intuitivas e atraentes. 🚀
 </p>
 <h2>📬 Entre em contato</h2>
 
