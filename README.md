@@ -5,7 +5,7 @@
 
 
  <p align="center" style="margin-top: 20;">
-Sou um desenvolvedor front-end apaixonado por criar soluções web inovadoras e responsivas. Formei-me em Análise e Desenvolvimento de Sistemas pela Universidade de Mogi das Cruzes em 2022, onde aprendi conceitos fundamentais de programação.
+Sou um desenvolvedor front-end apaixonado por criar soluções web inovadoras e responsivas. Formado em Análise e Desenvolvimento de Sistemas pela Universidade de Mogi das Cruzes em 2022, onde aprendi conceitos fundamentais de programação.
 </p>
 
 
