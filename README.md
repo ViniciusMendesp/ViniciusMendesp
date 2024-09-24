@@ -1,16 +1,31 @@
+<div align="center">
+  
+  # Vinicius Mendes
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+%7C+React+Native+Enthusiast;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+</div>
 
-⠀ <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=4B1AF7&random=false&width=435&lines=%F0%9F%9A%80+Ol%C3%A1%2C+sou+Vinicius+Mendes;%F0%9F%9A%80++Desenvolvedor+Front-end)](https://git.io/typing-svg)
-</p>
+## 👨‍💻 About Me
 
+Hello! I'm Vinicius, a passionate Front-End Developer with a keen eye for creating beautiful, responsive, and user-friendly web applications. I love turning complex problems into simple, elegant solutions.
 
- <p align="center" style="margin-top: 20;">
-Sou um desenvolvedor front-end apaixonado por criar soluções web inovadoras e responsivas. Formado em Análise e Desenvolvimento de Sistemas pela Universidade de Mogi das Cruzes em 2022, onde aprendi conceitos fundamentais de programação.
-</p>
+- 🔭 I'm currently working on enhancing user experiences through modern web technologies
+- 🌱 I'm always learning and staying up-to-date with the latest front-end trends
 
+## 🛠 Tech Stack
 
-<p align="center" style="margin-top: 20;">
-  <a href="https://skillicons.dev">
+<div align="center">
+
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,css,html,nodejs,react,nestjs,nextjs,styledcomponents,tailwind,ts,vite,vscode,vercel&perline=7" />
-  </a>
-</p>
+</a>
+
+</div>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusMendesp&show_icons=true&theme=react" alt="Vinicius's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusMendesp&theme=react" alt="Vinicius's GitHub streak" />
+</div>
+
