@@ -1,7 +1,7 @@
 <div align="center">
   
   # Vinicius Mendes
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Front-End+Developer;React+%7C+React+Native+Enthusiast;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=FullStack+Developer;React+%7C+React+Native+Enthusiast;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 </div>
 
 ## 👨‍💻 About Me
