@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Vinicius, a passionate Front-End Developer with a keen eye for creating beautiful, responsive, and user-friendly web applications. I love turning complex problems into simple, elegant solutions.
+Hello! I'm Vinicius, a passionate FullStack Developer with a keen eye for creating beautiful, responsive, and user-friendly web applications. I love turning complex problems into simple, elegant solutions.
 
 - 🔭 I'm currently working on enhancing user experiences through modern web technologies
 - 🌱 I'm always learning and staying up-to-date with the latest front-end trends
